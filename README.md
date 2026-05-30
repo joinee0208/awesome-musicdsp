@@ -52,6 +52,7 @@ If you want to create a robust cross-platform audio plug-in, there is a lot more
 
 ## Music Information Retrieval Libraries (C/C++)
 
+- [librosa.cpp](https://github.com/olilarkin/librosa.cpp) - Librosa is a widely used Python library for MIR tasks. With a little help from my agents, i've systematically ported it to a C++ library with WASM and Swift Package to boot.
 - [essentia](https://github.com/MTG/essentia) - Essentia is a huge collection of MIR algorithms that you can use to extract high and low level features from audio. AGPL3 license. Somewhat painful to build cross-platform.
 - [audioflux](https://github.com/libAudioFlux/audioFlux) - AudioFlux is a new-kid-on the block and some what similar but looks designed for deep learning, it looks very promising and has a liberal (MIT) license.
 
